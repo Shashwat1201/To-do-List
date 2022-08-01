@@ -32,7 +32,7 @@ function App() {
   return (
     <div className="App">
       
-     <h1>Siddhartha weds Shivani Dhavi at Hotel Taj</h1>
+     <h1>To-do List</h1>
      <form>
      
     <FormControl>
